@@ -1,1 +1,1 @@
-#toggles between full screen and default screen
+**toggles between full screen and default screen**
