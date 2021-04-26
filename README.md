@@ -1,2 +1,1 @@
-# full screen js codes
-
+toggles between full screen and default screen
