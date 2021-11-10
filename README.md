@@ -1,2 +1,2 @@
-## full screen toggle
-### toggles between full screen and default screen
+## Full screen toggler method
+ toggles between full screen and default screen
